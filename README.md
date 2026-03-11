@@ -1,6 +1,6 @@
 # Ghana NLP Notebooks
 
-A curated collection of Jupyter notebooks for Natural Language Processing tasks focused on Ghanaian languages (Twi, Ga, Ewe, Dagbani, etc.). This repository provides ready-to-use examples, tutorials, and research implementations for the Ghanaian NLP community.
+A curated collection of Jupyter notebooks for Natural Language Processing tasks focused on Ghanaian languages. This repository provides ready-to-use examples, tutorials, and research implementations for the Ghana NLP community.
 
 ---
 
