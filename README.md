@@ -6,7 +6,7 @@ A curated collection of Jupyter notebooks for Natural Language Processing tasks 
 
 ## Available Notebooks
 
-### 🔄 Machine Translation (MT)
+### Machine Translation (MT)
 Notebooks for translating between Ghanaian languages and English/other languages.
 
 | Notebook | Description | Open in Colab |
@@ -15,7 +15,7 @@ Notebooks for translating between Ghanaian languages and English/other languages
 | `multilingual_ghanaian_mt.ipynb` | Multilingual translation for 5+ Ghanaian languages | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/multilingual_ghanaian_mt.ipynb) |
 | `mt_evaluation_metrics.ipynb` | BLEU, chrF++, and custom evaluation for low-resource MT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/mt_evaluation_metrics.ipynb) |
 
-### 🗣️ Text-to-Speech (TTS)
+### Text-to-Speech (TTS)
 Notebooks for synthesizing speech from text in Ghanaian languages.
 
 | Notebook | Description | Open in Colab |
@@ -24,7 +24,7 @@ Notebooks for synthesizing speech from text in Ghanaian languages.
 | `ga_tts_data_preparation.ipynb` | Data preprocessing for Ga TTS dataset creation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/ga_tts_data_preparation.ipynb) |
 | `tts_evaluation.ipynb` | MOS evaluation and audio quality assessment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/tts_evaluation.ipynb) |
 
-### 🎙️ Automatic Speech Recognition (ASR)
+### Automatic Speech Recognition (ASR)
 Notebooks for transcribing Ghanaian language audio to text.
 
 | Notebook | Description | Open in Colab |
