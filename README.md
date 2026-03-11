@@ -67,7 +67,7 @@ jupyter lab
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! To add a new notebook:
 
@@ -84,7 +84,7 @@ We welcome contributions! To add a new notebook:
 
 ---
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
