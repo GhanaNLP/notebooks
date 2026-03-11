@@ -38,8 +38,8 @@ Helper notebooks for data preparation and analysis.
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| `utils/text_normalization.ipynb` | Normalizing Twi text (diacritics, tone marks, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/utils/text_normalization.ipynb) |
-| `utils/dataset_statistics.ipynb` | Analyzing dataset distributions and quality | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/utils/dataset_statistics.ipynb) |
+| `text_normalization.ipynb` | Normalizing Twi text (diacritics, tone marks, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/utils/text_normalization.ipynb) |
+| `dataset_statistics.ipynb` | Analyzing dataset distributions and quality | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/utils/dataset_statistics.ipynb) |
 
 ---
 
