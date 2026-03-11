@@ -43,7 +43,7 @@ Helper notebooks for data preparation and analysis.
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Running on Google Colab (Recommended)
 Click any **"Open in Colab"** badge above to run the notebook immediately with free GPU/TPU access. No local setup required!
