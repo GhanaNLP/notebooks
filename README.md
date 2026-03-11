@@ -11,27 +11,27 @@ Notebooks for translating between Ghanaian languages and English/other languages
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| `mt/twi_english_translation.ipynb` | Baseline Twi ↔ English translation using transformers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/twi_english_translation.ipynb) |
-| `mt/multilingual_ghanaian_mt.ipynb` | Multilingual translation for 5+ Ghanaian languages | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/multilingual_ghanaian_mt.ipynb) |
-| `mt/mt_evaluation_metrics.ipynb` | BLEU, chrF++, and custom evaluation for low-resource MT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/mt_evaluation_metrics.ipynb) |
+| `twi_english_translation.ipynb` | Baseline Twi ↔ English translation using transformers | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/twi_english_translation.ipynb) |
+| `multilingual_ghanaian_mt.ipynb` | Multilingual translation for 5+ Ghanaian languages | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/multilingual_ghanaian_mt.ipynb) |
+| `mt_evaluation_metrics.ipynb` | BLEU, chrF++, and custom evaluation for low-resource MT | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/mt/mt_evaluation_metrics.ipynb) |
 
 ### 🗣️ Text-to-Speech (TTS)
 Notebooks for synthesizing speech from text in Ghanaian languages.
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| `tts/twi_tts_fine_tuning.ipynb` | Fine-tuning MMS-TTS for Twi pronunciation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/twi_tts_fine_tuning.ipynb) |
-| `tts/ga_tts_data_preparation.ipynb` | Data preprocessing for Ga TTS dataset creation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/ga_tts_data_preparation.ipynb) |
-| `tts/tts_evaluation.ipynb` | MOS evaluation and audio quality assessment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/tts_evaluation.ipynb) |
+| `twi_tts_fine_tuning.ipynb` | Fine-tuning MMS-TTS for Twi pronunciation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/twi_tts_fine_tuning.ipynb) |
+| `ga_tts_data_preparation.ipynb` | Data preprocessing for Ga TTS dataset creation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/ga_tts_data_preparation.ipynb) |
+| `tts_evaluation.ipynb` | MOS evaluation and audio quality assessment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/tts_evaluation.ipynb) |
 
 ### 🎙️ Automatic Speech Recognition (ASR)
 Notebooks for transcribing Ghanaian language audio to text.
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| `asr/twi_asr_whisper.ipynb` | Fine-tuning Whisper for Twi ASR with code-switching | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/twi_asr_whisper.ipynb) |
-| `asr/multilingual_ghanaian_asr.ipynb` | Wav2Vec 2.0 for multiple Ghanaian languages | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/multilingual_ghanaian_asr.ipynb) |
-| `asr/asr_data_augmentation.ipynb` | Audio augmentation techniques for low-resource ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/asr_data_augmentation.ipynb) |
+| `twi_asr_whisper.ipynb` | Fine-tuning Whisper for Twi ASR with code-switching | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/twi_asr_whisper.ipynb) |
+| `multilingual_ghanaian_asr.ipynb` | Wav2Vec 2.0 for multiple Ghanaian languages | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/multilingual_ghanaian_asr.ipynb) |
+| `asr_data_augmentation.ipynb` | Audio augmentation techniques for low-resource ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/asr_data_augmentation.ipynb) |
 
 ### 🛠️ Utilities & Preprocessing
 Helper notebooks for data preparation and analysis.
