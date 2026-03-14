@@ -20,7 +20,7 @@ Notebooks for synthesizing speech from text in Ghanaian languages.
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| `StyleTTS2_Twi_Finetune_working_final.ipynb` | Fine-tuning Style TTS English Base with a Twi Dataset | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/StyleTTS2_Twi_Finetune_working_final.ipynb) |
+| `StyleTTS2_Twi_Finetune_working_final.ipynb` | Fine-tuning Style TTS English Base with a Twi Dataset | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/StyleTTS2_Twi_Finetune_working_final.ipynb) |
 | `ga_tts_data_preparation.ipynb` | Data preprocessing for Ga TTS dataset creation | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/ga_tts_data_preparation.ipynb) |
 | `tts_evaluation.ipynb` | MOS evaluation and audio quality assessment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/tts/tts_evaluation.ipynb) |
 
