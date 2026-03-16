@@ -33,12 +33,12 @@ Notebooks for transcribing Ghanaian language audio to text.
 | `multilingual_ghanaian_asr.ipynb` | Wav2Vec 2.0 for multiple Ghanaian languages | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/multilingual_ghanaian_asr.ipynb) |
 | `asr_data_augmentation.ipynb` | Audio augmentation techniques for low-resource ASR | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/asr/asr_data_augmentation.ipynb) |
 
-### 🛠️ Utilities & Preprocessing
-Helper notebooks for data preparation and analysis.
+### 🛠️ Data Generation
+Notebooks for synthetic data generation in Ghanaian languages.
 
 | Notebook | Description | Open in Colab |
 |----------|-------------|---------------|
-| `text_normalization.ipynb` | Normalizing Twi text (diacritics, tone marks, etc.) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/utils/text_normalization.ipynb) |
+| `prestine_twi_dataset_generation.ipynb` | Generating high quality multifaceted Twi text for training models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/datagen/prestine_twi_dataset_generation.ipynb) |
 | `dataset_statistics.ipynb` | Analyzing dataset distributions and quality | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GhanaNLP/notebooks/blob/main/utils/dataset_statistics.ipynb) |
 
 ---
